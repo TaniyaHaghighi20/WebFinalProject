@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+.searchBtn:hover{
+    background-color:black !important;
+    color: white;
+}
+.searchBtn{
+    border: none;
+    outline: none;
+    margin-right: 10px !important;
+}
+.search:focus{
+    outline: none;
+}
+.input{
+    outline: none;
+    margin:8px;
+    vertical-align: top;
+}
+.submitBtn:hover{
+    background-color: rgba(0, 0, 0, 0.25) !important;
+}
+.submitBtn{
+    outline: none;
+    border: none;
+    margin:8px;
+    vertical-align: top;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.73);
+
+}
+.label{
+    vertical-align: middle;
+}

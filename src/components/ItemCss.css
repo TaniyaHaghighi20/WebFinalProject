@@ -1,0 +1,20 @@
+.iconbtn, .iconbtn:focus ,.iconbtn:active{
+    outline: none !important;
+    border: transparent !important;
+    box-shadow: none !important;
+}
+.img-size{
+    height: 300px;
+    overflow: hidden;
+}
+.list-row{
+    height: 80px;
+    overflow: hidden;
+}
+
+.listSize{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    /*overflow-y: scroll;*/
+}
